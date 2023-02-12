@@ -3,7 +3,3 @@ some text line 2
 
 some text line 4
 some text line 5
-
-some text line 7
-some text line 8
---------------------------------
